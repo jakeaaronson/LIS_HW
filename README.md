@@ -1,16 +1,17 @@
-
 Hello Ben Switalski,
+To run this app on your local machine, please follow these steps:
 
-In order to run this app on your local build machine you first need to download and install npm. There are a couple of different ways that you can do that here at https://nodejs.org/en/download
+First, download and install Node.js and npm from https://nodejs.org/en/download
+Clone this repository and navigate to the project directory in your terminal
+Run the following commands:
 
-Then run the following commands. 
-
+```
 npm install
-
 npm run build
-
 npm run dev
+```
 
-Every file comes from the template at https://github.com/sveltejs/template (I know its old but I used it on some other stuff)
-
-with the exception of the only file that I touched or edited myself is at src\App.svelte
+This project is based on the Svelte template from https://github.com/sveltejs/template. (I know its old but I used it on some other stuff)
+The file you should examine is src/App.svelte, which contains the custom code for this application. Its the only one I edited from the template. 
+There was some ambiguity If you'd like to see some server-side code, I can provide more code upon request. I've been playing around with Firestore recently and can add that in or another backend tech. 
+Let me know if you need any clarification or have questions!
