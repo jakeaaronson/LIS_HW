@@ -13,4 +13,4 @@ npm run dev
 
 Every file comes from the template at https://github.com/sveltejs/template (I know its old but I used it on some other stuff)
 
-with the exception of the only file I touched or edited myself is at src\App.svelte
+with the exception of the only file that I touched or edited myself is at src\App.svelte
